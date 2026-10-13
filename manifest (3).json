@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Hız Tutkusu 3D",
+  "orientation": "landscape",
+  "scope": "/",
+  "short_name": "Hız Tutkusu 3D0",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "com.yunus.hiztutkusu3d",
+  "description": "Yarış Oyunu"
+}
